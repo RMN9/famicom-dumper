@@ -8,7 +8,8 @@
 <li> Загрузчик + main (можно заливать например через AvrDude) </li>
 <li> Изменить имя устройства (использовать софт FT Prog)<br>
      Product Desc: <b>Famicom Dumper/Programmer</b><br>
-     Manufacturer: <b>Cluster</b></li>
+     Manufacturer: <b>Cluster</b><br>
+     Выполнить Program Device для сохранения настроек</li>
 </ol>
 
 После данных операций дампер будет автоматически определяться клиентским ПО без необходимости указывать COM порт устройства.
